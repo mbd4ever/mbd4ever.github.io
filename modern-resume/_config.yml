@@ -47,12 +47,7 @@ content:
       - layout: top-middle
           title: Cubesat Project
         description: | # this will include new lines to allow paragraphs
-          I was the leader of the CubeSat Project team. The project focused on launching a microprocessor into space via the
-CubeSat to study the effect of space on the chip. I was tasked with managing the ground station where we had to
-build a system similar to the one onboard the CubeSat and run it in parallel with the one in space. The data of both
-the ground station and space were compared to learn how space might have effected our chip.
-The project required a lot of data processing, time managing and researching, it also helped me get better in learning
-how to use google and Matlab.
+          I was the leader of the CubeSat Project team. The project focused on launching a microprocessor into space via the CubeSat to study the effect of space on the chip. I was tasked with managing the ground station where we had to build a system similar to the one onboard the CubeSat and run it in parallel with the one in space. The data of both the ground station and space were compared to learn how space might have effected our chip. The project required a lot of data processing, time managing and researching, it also helped me get better in learning how to use google and Matlab.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,7 +84,7 @@ how to use google and Matlab.
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
