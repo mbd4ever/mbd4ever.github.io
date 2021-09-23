@@ -18,7 +18,7 @@ darkmode: false
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Welcome to my humble resume. I'm a newly grad Electrical Engineering student with 2 years of teaching experience in lower level engineer courses as well as promised a full scholarship to finish the MS program from West Virginia University.
-  I am an easy going, fun loving guy who has seen his fair share of hardship due to my 10 years journey in the US. Fluent in both English and Vietnamese and hard work are my strong points.
+ I am an easy going, fun loving guy who has seen his fair share of hardship due to my 10 years journey in the US. Fluent in both English and Vietnamese and hard work are my strong points.
 
 
 content:
@@ -46,7 +46,7 @@ content:
     content:
       - layout: left
         title: West Virginia University
-        caption: 2018- 2021
+        caption: 2018 - 2021
         sub_title: BS Electrical Engineer
        
         description: | # this will include new lines to allow paragraphs
@@ -61,11 +61,8 @@ content:
       - Food, just food
       - Small talks, big talks, medium talks, I just love a good conversations.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
