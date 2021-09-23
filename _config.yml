@@ -15,34 +15,8 @@ darkmode: false
 
 # Social links
 github_username:  mbd4ever
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-
-# xing_username: jekyll
-# pinterest_username: jekyll
-
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Welcome to my humble resume. I'm a newly grad Electrical Engineering student with 2 years of teaching experience in lower level engineer courses as well as promised a full scholarship to finish the MS program from West Virginia University.
@@ -64,7 +38,7 @@ content:
         title: College Lab Instructor
       
         caption: September 2019 - May 2021
-        uote: >
+        quote: >
           There's no introduction like the introduction to engineering, it is the pinnacle of your engineering career because it only goes downhill from there.
         description: | # this will include new lines to allow paragraphs
             I taught as lab instructor for an introduction class to computer engineer. The class introduced everything a computer/electrical engineer student would need: logic gates, coding in VHDL, circuit designs, and most importantly, the realization that all of these machines work because of math and formula, not magic dust.
